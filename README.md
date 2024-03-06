@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# LIVE VIDEO
+# Live video
 
 _website design project_
 
@@ -13,14 +13,17 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vickyplein.github.io/ufo/
+Site published at: https://vickyplein.github.io/live-video/
 
-Design: [LIVE VIDEO](https://dribbble.com/shots/4957408-Live-video-illustration/attachments/1111394?mode=media)
+Design: [Live video](https://dribbble.com/shots/4957408-Live-video-illustration/attachments/1111394?mode=media)
 
 ## 🎯 Project features/goals
 
+-   **No responsive design**
 -   Github pages
--   No responsive design
+-   Favicon
+-   FontAwesome icons
+-   css `display:flex`
 
 ## 🧰 Getting Started
 
@@ -44,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/VickyPlein/livevideo.git
+    git clone https://github.com/VickyPlein/live-video.git
     ```
 2. Install NPM packages
     ```sh
