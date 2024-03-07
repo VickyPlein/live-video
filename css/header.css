@@ -1,34 +1,18 @@
-header {
-    display: inline-block;
-    width: 100%;
-    background-color: yellow;
+.logo {
+    height: 40px;
 }
 
-header>img {
-    float: left;
-    height: 50px;
+.main-nav {
+    display: flex;
+    gap: 20px;
 }
 
-header>nav {
-    margin-top: 13px;
-    float: right;
-}
-
-header a {
+.link {
     color: blue;
-    float: left;
-    padding: 10px 0;
-    margin-right: 20px;
     font-size: 20px;
-    line-height: 20px;
-    border-bottom: 10px solid green;
     text-decoration: none;
 }
 
-header a:last-child {
-    margin-right: 0;
-}
-
-header a:hover {
+.link:hover {
     background-color: red;
 }
